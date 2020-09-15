@@ -1,2 +1,2 @@
 # Editable-Invoice
-A simple HTMl-based billing software
+A simple HTML-based billing software
